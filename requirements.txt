@@ -1,0 +1,5 @@
+# use pip install -r requirements.txt in current directory
+scikit-learn
+numpy
+nltk
+matplotlib
